@@ -1,4 +1,3 @@
-<br>
-<b><font color="#99CCFF"> SOCKS VPN | PRIVATE SERVER | <br></font></b><br>
-<font><font color="#D8FF00">FREENET FOR ALL<br></font><br>
-<br>
+<br></br>
+<b><font color="#F88716 SOCKS VPN | PRIVATE SERVER | <br></font></b>
+<font><font color="#F88716">FREENET FOR ALL<br></font><br>
