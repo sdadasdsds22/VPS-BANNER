@@ -9,4 +9,4 @@
 <b><font color="#560319">• NO HACKING !!! <br></font>
 <br>
 <b><font color="#FF0000">This VPS Server is Forsale for Solos Accounts<br></font></b><br>
-<b><font color="#F88716">Digital Ocean Premium | Freenet For All |<br></font></b><br>
+<b><font color="#66FF00">Digital Ocean Premium | Freenet For All |<br></font></b><br>
