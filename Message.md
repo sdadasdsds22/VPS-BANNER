@@ -13,3 +13,4 @@
 <b><font color="#51825A">THIS VPS SERVER IS FORSALE IF U<br></font></b>
 <b><font color="#51825A">WANT SOLOS ACCOUNT.<br></font></b><br>
 <b><font color="#000000">DIGITAL OCEAN / PREMIUM</font></b>
+<b><font color="#000000">OWNER / ANONYMOUS</font></b>
