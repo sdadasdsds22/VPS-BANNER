@@ -10,5 +10,6 @@
 <b><font color="#00FFFF">• NO OVER-DOWNLOAD !!! <br></font>
 <b><font color="#560319">• NO HACKING !!! <br></font>
 <br>
-<b><font color="#FF0000">THIS VPS SERVER IS FORSALE IF U WANT SOLOS ACCOUNT<br></font></b><br>
+<b><font color="#FF0000">THIS VPS SERVER IS FORSALE IF U<br></font></b>
+<b><font color="#FF0000">WANT SOLOS ACCOUNT<br></font></b><br>
 <b><font color="##8B00FF">DIGITAL OCEAN PREMIUM - <br></font></b>
