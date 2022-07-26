@@ -11,6 +11,5 @@
 <b><font color="#560319">• NO HACKING !!! <br></font>
 <br>
 <b><font color="#51825A">THIS VPS SERVER IS FORSALE IF U<br></font></b>
-<b><font color="#51825A">WANT SOLOS ACCOUNT.</font></b>
-
-https://www.facebook.com/SOCKSFAMILY
+<b><font color="#51825A">WANT SOLOS ACCOUNT.<br></font></b><br>
+<b><font color="#000000">https://www.facebook.com/SOCKSFAMILY</font></b>
