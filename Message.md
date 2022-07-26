@@ -11,4 +11,4 @@
 <b><font color="#560319">• NO HACKING !!! <br></font>
 <br>
 <b><font color="#FF0000">THIS VPS SERVER IS FORSALE IF U<br></font></b>
-<b><font color="#FF0000">WANT SOLOS ACCOUNT<br></font></b>
+<b><font color="#FF0000">WANT SOLOS ACCOUNT.<br></font></b>
