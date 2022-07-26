@@ -7,3 +7,4 @@
 <font color="#000000">NO OVER-DOWNLOAD <br></font>
 <font color="#000000">NO HACKING <br></font>
 <br>
+<b><font color="#99CCFF">Digital Ocean Premium | Freenet For All<br></font></b><br>
