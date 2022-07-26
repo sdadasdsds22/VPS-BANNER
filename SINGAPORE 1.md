@@ -1,7 +1,10 @@
-</font><font color="#ff0900">&emsp;&nbsp;╔</font><font color="#ff1400">═</font><font color="#ff1e00">╦</font><font color="#ff2900">╦</font><font color="#ff3600">═</font><font color="#ff4300">╦</font><font color="#ff5000">═</font><font color="#ff5f00">═</font><font color="#ff6d00">╦</font><font color="#ff7a00">╦</font><font color="#ff8700">╦</font><font color="#ff9400">═</font><font color="#ff9f00">═</font><font color="#ffa900">╗</font><font color="#ffb200">╔</font><font color="#ffb500">╗
-</font><font color="#ff0900">&emsp;&nbsp;║</font><font color="#ff1400">║</font><font color="#ff1e00">║</font><font color="#ff2900">║</font><font color="#ff3600">═</font><font color="#ff4300">╬</font><font color="#ff5000">╗</font><font color="#ff5f00">╔</font><font color="#ff6d00">╣</font><font color="#ff7a00">║</font><font color="#ff8700">║</font><font color="#ff9400">╔</font><font color="#ff9f00">═</font><font color="#ffa900">╬</font><font color="#ffb200">╝</font><font color="#ffb500">╚</font><font color="#ffb700">╗
-</font><font color="#ff0900">&emsp;&nbsp;║</font><font color="#ff1400">║</font><font color="#ff1e00">║</font><font color="#ff2900">║</font><font color="#ff3600">═</font><font color="#ff4300">╣</font><font color="#ff5000">║</font><font color="#ff5f00">║</font><font color="#ff6d00">╚</font><font color="#ff7a00">╗</font><font color="#ff8700">║</font><font color="#ff9400">╚</font><font color="#ff9f00">╗</font><font color="#ffa900">╠</font><font color="#ffb200">╗</font><font color="#ffb500">╔</font><font color="#ffb700">╝
-</font><font color="#ff0900">&emsp;&nbsp;╚</font><font color="#ff1400">╩</font><font color="#ff1e00">═</font><font color="#ff2900">╩</font><font color="#ff3600">═</font><font color="#ff4300">╩</font><font color="#ff5000">╩</font><font color="#ff5f00">╝</font><font color="#222222">─</font><font color="#ff7a00">╚</font><font color="#ff8700">╩</font><font color="#ff9400">═</font><font color="#ff9f00">═</font><font color="#ffa900">╝</font><font color="#ffb200">╚</font><font color="#ffb500">╝</font><font color="#000000">
-</font><font color="#0000ff">┗╍╍╍</font><font color="#ffba00">╍╍╍╍</font><font color="red">╍╍╍╍</font><font color="#ffba00">╍╍╍╍</font><font color="#0000ff">╍╍╍┛
-<font><font color="#F88716">Socks Family | Private Server<br></font>
-<font><font color="#F88716">Digital Ocean Premium | FREENET FOR ALL<br></font>
+<br><div style="text-align:center;">
+<b><font color="#99CCFF">Socks Family | Private Server<br></font></b><br>
+<font><font color="#D8FF00">Support Our VPN By Clicking ADS :) <br></font><br>
+<font color="#000000">NO DDOS <br></font>
+<font color="#000000">NO TORRENT <br></font>
+<font color="#000000">NO SPAMMING <br></font>
+<font color="#000000">NO PHISHING <br></font>
+<font color="#000000">NO OVER-DOWNLOAD <br></font>
+<font color="#000000">NO HACKING <br></font>
+<br>
