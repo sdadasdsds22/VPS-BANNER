@@ -12,5 +12,5 @@
 <br>
 <b><font color="#FF0000">THIS VPS SERVER IS FORSALE IF U<br></font></b>
 <b><font color="#FF0000">WANT SOLOS ACCOUNT<br></font></b><br>
-<b><font color="#CC5500">POWERED BY:</font></b>
+<b><font color="#CC5500">POWERED BY:<br></font></b>
 <b><font color="#FF0000">SOCKS FAMILY:<br></font></b>
