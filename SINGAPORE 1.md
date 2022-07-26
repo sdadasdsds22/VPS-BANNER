@@ -1,4 +1,11 @@
-<br></br>
-<b><font color="#F88716"> SOCKS FAMILY | PRIVATE SERVER | <br></font></b>
-<font><font color="#F88716">Singapore 1 | Fast Browsing |<br></font>
-<font><font color="#66FF00">Digital Ocean Premium | FREENET FOR ALL<br></font>
+</font><font color="#ff0900">&emsp;&nbsp;╔</font><font color="#ff1400">═</font><font color="#ff1e00">╦</font><font color="#ff2900">╦</font><font color="#ff3600">═</font><font color="#ff4300">╦</font><font color="#ff5000">═</font><font color="#ff5f00">═</font><font color="#ff6d00">╦</font><font color="#ff7a00">╦</font><font color="#ff8700">╦</font><font color="#ff9400">═</font><font color="#ff9f00">═</font><font color="#ffa900">╗</font><font color="#ffb200">╔</font><font color="#ffb500">╗
+</font><font color="#ff0900">&emsp;&nbsp;║</font><font color="#ff1400">║</font><font color="#ff1e00">║</font><font color="#ff2900">║</font><font color="#ff3600">═</font><font color="#ff4300">╬</font><font color="#ff5000">╗</font><font color="#ff5f00">╔</font><font color="#ff6d00">╣</font><font color="#ff7a00">║</font><font color="#ff8700">║</font><font color="#ff9400">╔</font><font color="#ff9f00">═</font><font color="#ffa900">╬</font><font color="#ffb200">╝</font><font color="#ffb500">╚</font><font color="#ffb700">╗
+</font><font color="#ff0900">&emsp;&nbsp;║</font><font color="#ff1400">║</font><font color="#ff1e00">║</font><font color="#ff2900">║</font><font color="#ff3600">═</font><font color="#ff4300">╣</font><font color="#ff5000">║</font><font color="#ff5f00">║</font><font color="#ff6d00">╚</font><font color="#ff7a00">╗</font><font color="#ff8700">║</font><font color="#ff9400">╚</font><font color="#ff9f00">╗</font><font color="#ffa900">╠</font><font color="#ffb200">╗</font><font color="#ffb500">╔</font><font color="#ffb700">╝
+</font><font color="#ff0900">&emsp;&nbsp;╚</font><font color="#ff1400">╩</font><font color="#ff1e00">═</font><font color="#ff2900">╩</font><font color="#ff3600">═</font><font color="#ff4300">╩</font><font color="#ff5000">╩</font><font color="#ff5f00">╝</font><font color="#222222">─</font><font color="#ff7a00">╚</font><font color="#ff8700">╩</font><font color="#ff9400">═</font><font color="#ff9f00">═</font><font color="#ffa900">╝</font><font color="#ffb200">╚</font><font color="#ffb500">╝</font><font color="#000000">&#0153;
+</font><font color="#0000ff">┗╍╍╍</font><font color="#ffba00">╍╍╍╍</font><font color="red">╍╍╍╍</font><font color="#ffba00">╍╍╍╍</font><font color="#0000ff">╍╍╍┛
+</font></font><font color="Hi></font> <font 
+</font><font color="#d7231a"ART CONFIG⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃
+</font><font color="#03C03C"><b>ART CONFIG OVPN SETUP GTM NOLOAD NEED IP HUNT ⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃JOIN MESSENGER GROUP
+https://m.me/j/AbZo3a-zaDMMQFd9/
+
+https://m.me/j/Aba32vMoh8pP8yZ6/
