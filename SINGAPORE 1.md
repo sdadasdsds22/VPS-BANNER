@@ -1,5 +1,6 @@
 <br><div style="text-align:left;">
-<b><font color="#F88716">SERVER PROVIDE BY: SOCKS FAMILY - SSH/VPN<br></font></b><br>
+<b><font color="#F88716">SERVER PROVIDE BY: SOCKS<br></font></b><br>
+<b><font color="#F88716">FAMILY - SSH/VPN<br></font></b>
 <b><font color="#FF0000">FOLLOW THE RULES TO AVOID SERVER DOWN:<br></font></b><br>
 <b><font color="#9966CC">• NO DDOS !!! <br></font>
 <b><font color="#CC0000">• NO TORRENT !!! <br></font>
