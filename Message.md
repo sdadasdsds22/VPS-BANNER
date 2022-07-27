@@ -7,7 +7,7 @@
 <b><font color="#CC0000">• NO TORRENT !!! <br></font>
 <b><font color="#CD7F32">• NO SPAMMING !!! <br></font>
 <b><font color="#36094F">• NO HACKING !!! <br></font>
-<b><font color="#00FFFF">• NO OVER-DOWNLOAD !!! <br></font>
+<b><font color="#00FFFF">• NO OVER DOWNLOAD !!! <br></font>
 <b><font color="#560319">• NO ILLEGAL ACTIVITIES !!! <br></font>
 <br>
 <b><font color="#51825A">THIS VPS SERVER IS FORSALE IF U<br></font></b>
