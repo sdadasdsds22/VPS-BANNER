@@ -1,3 +1,4 @@
+<b><font color="#F88716">Dexter Script<br></font></b>
 <br><div style="text-align:left;">
 <b><font color="#F88716">SERVER PROVIDE BY: SOCKS<br></font></b>
 <b><font color="#F88716">FAMILY - SSH/VPN<br></font></b><br>
