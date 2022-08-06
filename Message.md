@@ -1,4 +1,4 @@
-<b><font color="#F88716">POWERED BY: DEXTER SCRIPT<br></font></b>
+<b><font color="#F88716">POWERED|DEXTER SCRIPT<br></font></b>
 <div style="text-align:left;">
 <b><font color="#F88716">SERVER PROVIDE BY: SOCKS<br></font></b>
 <b><font color="#F88716">FAMILY - SSH/VPN<br></font></b><br>
