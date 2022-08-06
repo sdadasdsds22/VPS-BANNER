@@ -1,3 +1,4 @@
+<b><font color="#F88716">POWERED BY<br></font></b>
 <b><font color="#F88716">DEXTER SCRIPT<br></font></b>
 <div style="text-align:left;">
 <b><font color="#F88716">SERVER PROVIDE BY: SOCKS<br></font></b>
