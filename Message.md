@@ -1,6 +1,6 @@
 <br><div style="text-align:left;">
 <b><font color="#F88716">POWERED BY:<br></font></b>
-<b><font color="#F88716">DEXTER SCRIPT<br></font></b><br>
+<b><font color="#00FF00">DEXTER SCRIPT<br></font></b><br>
 <b><font color="#F88716">SERVER PROVIDE BY: SOCKS<br></font></b>
 <b><font color="#F88716">FAMILY - SSH/VPN<br></font></b><br>
 <b><font color="#FF0000">FOLLOW THE RULES TO AVOID<br></font></b>
